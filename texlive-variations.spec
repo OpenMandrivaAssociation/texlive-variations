@@ -6,7 +6,7 @@
 # catalog-version 0.3
 Name:		texlive-variations
 Version:	0.3
-Release:	3
+Release:	4
 Summary:	Typeset tables of variations of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/variations
