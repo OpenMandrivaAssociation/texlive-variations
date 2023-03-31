@@ -1,6 +1,6 @@
 Name:		texlive-variations
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Typeset tables of variations of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/variations
