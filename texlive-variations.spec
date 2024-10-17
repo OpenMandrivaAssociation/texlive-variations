@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset tables of variations of functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/variations
+URL:		https://www.ctan.org/tex-archive/macros/generic/variations
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/variations.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/variations.doc.r%{version}.tar.xz
